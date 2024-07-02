@@ -833,4 +833,9 @@
   contact: https://github.com/tcaky/devcontainer-features/issues
   repository: https://github.com/tcaky/devcontainer-features
   ociReference: ghcr.io/tcaky/devcontainer-features
-  
+- name: Dev & Container features
+  maintainer: LarsNieuwenhuizen
+  contact: https://github.com/LarsNieuwenhuizen/features/issues
+  repository: https://github.com/LarsNieuwenhuizen/features
+  ociReference: ghcr.io/larsnieuwenhuizen/features
+
